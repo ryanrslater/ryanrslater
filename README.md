@@ -2,7 +2,10 @@
 ![Cover Image](https://ryanslater.dev/Images/readme.png)
 
 Current live projects
+
+
 [Sendle Blockchain Delivery App](https://ryanslater.dev/delivery/index.html)
+
 [UFC Blockchain Betting App](https://ryanslater.dev/betting/index.html)
 <!--
 **ryanrslater/ryanrslater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
