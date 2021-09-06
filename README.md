@@ -1,5 +1,5 @@
 # Hi my name is Ryan
-![Cover Image](https://ryanslater.dev/Images/readme.png)
+![Cover Image](https://ryanslater.dev/Images/Ryan-slater-about.png)
 
 Current live projects
 
