@@ -4,9 +4,9 @@
 Current live projects
 
 
-[Sendle Blockchain Delivery App](https://ryanslater.dev/delivery/index.html)
+[Sendle Blockchain Delivery App](https://eloquent-galileo-dccf08.netlify.app)
 
-[UFC Blockchain Betting App](https://ryanslater.dev/betting/index.html)
+[UFC Blockchain Betting App](https://eager-lamarr-dd64a1.netlify.app)
 <!--
 **ryanrslater/ryanrslater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
