@@ -1,6 +1,9 @@
 # Hi my name is Ryan
 
-##Working on an NPM package
+## Working on an NPM package
+
+Serverside authentication for Next.js and Cognito
+
 [NPM - Next Cognito](https://www.npmjs.com/package/nextcognito)
 
 <!--
