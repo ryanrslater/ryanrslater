@@ -7,7 +7,7 @@ Full stack web dev
 Full time software developer, started front end but currently enjoying the full stack
 
 * 🌍  I'm based in Brisbane
-* 🧠  I'm learning Springboot
+* 🧠  I'm learning Deno
 
 ### Skills
 
